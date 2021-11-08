@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UNT Player</string>
+    <string name="player_title">UNT Player</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="OnlineBtn">Click For Online Video</string>
+    <string name="offlineBtn">Click For Offline Video</string>
+
+
+
+
+
+
+</resources>
